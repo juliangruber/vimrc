@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/julian/pro/multilevel/node_modules/msgpack-stream/node_modules/bops/node_modules/base64-js'
+let g:netrw_dirhist_2='/Users/julian/pro/wayla/wayla/browser/db'
+let g:netrw_dirhist_3='/Users/julian/pro/wayla/wayla/browser/camera'
+let g:netrw_dirhist_4='/Users/julian/pro/multilevel/test/disabled'
+let g:netrw_dirhist_5='/Users/julian/pro/wayla/wayla/node_modules/level-nearby-stream/node_modules/tmp-stream'
