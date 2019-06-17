@@ -15,8 +15,8 @@ set hidden
 " color scheme
 " colorscheme xoria256
 " colorscheme github
-" colorscheme julian-dark
-colorscheme julian
+colorscheme julian-dark
+" colorscheme julian
 
 " show char count
 set ruler
@@ -53,3 +53,7 @@ map <F10> :echo "hi<" . synIDattr(synID(line("."),col("."),1),"name") . '> trans
 
 " tagbar
 nmap <F8> :TagbarToggle<CR>
+
+" fix https://github.com/numirias/security/blob/master/doc/2019-06-04_ace-vim-neovim.md
+set modelines=0
+set nomodeline
